@@ -1,0 +1,11 @@
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\bin\Debug\netcoreapp2.2\DiggersAndFlies.deps.json
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\bin\Debug\netcoreapp2.2\DiggersAndFlies.runtimeconfig.json
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\bin\Debug\netcoreapp2.2\DiggersAndFlies.runtimeconfig.dev.json
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\bin\Debug\netcoreapp2.2\DiggersAndFlies.dll
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\bin\Debug\netcoreapp2.2\DiggersAndFlies.pdb
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.csprojAssemblyReference.cache
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.csproj.CoreCompileInputs.cache
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.AssemblyInfoInputs.cache
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.AssemblyInfo.cs
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.dll
+C:\users\jksig\workspace\c#Exercise\DiggersAndFlies\obj\Debug\netcoreapp2.2\DiggersAndFlies.pdb
